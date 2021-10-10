@@ -1,0 +1,10 @@
+Logs TennisGame Physio 
+
+Log date:22/07/2021 10:52:35
+Fisioterapeuta: a Paciente: a Nível Amputação: a Idade: 12 Sexo: f
+Log date:22/07/2021 10:52:42
+Pressão Arterial: 1 Batimentos Cardíacos: 1 Oxigenação: 1 Observações: as
+Log date:22/07/2021 13:41:41
+Fisioterapeuta: Marcio Paciente: Adalberto Nível Amputação: Inferior Idade: 56 Sexo: M
+Log date:22/07/2021 13:41:52
+Pressão Arterial: 1 Batimentos Cardíacos: 1 Oxigenação: 1 Observações: Nada

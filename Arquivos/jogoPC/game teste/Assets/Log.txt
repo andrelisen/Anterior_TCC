@@ -1,0 +1,6 @@
+Logs TennisGame Physio 
+
+Log date:27/07/2021 14:46:58
+Fisioterapeuta: DIGITE SEU NOME Paciente: Testando Nível Amputação: Superior Idade: 12 Sexo: Masculino
+Dados físicos antes da sessão: Pressão Arterial: 12.5Batimentos cardíacos: 76Oxigenação do sangue: 95Observações: nada
+Dados físicos depois da sessão: Pressão Arterial: 124Batimentos cardíacos: 76Oxigenação do sangue: 97Observações: nadaa

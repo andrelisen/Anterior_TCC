@@ -1,0 +1,3 @@
+Anotações Flutter
+1) Se ocorrer o erro = "Execution failed for task ':app:packageDebug'." - executar o comando flutter clear 
+
